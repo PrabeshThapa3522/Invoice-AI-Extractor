@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# API keys and environment variables
+.env
+
+# Temporary uploaded invoice
+uploaded_invoice.png
+
+# Generated output
+output/
+
+# macOS files
+.DS_Store
