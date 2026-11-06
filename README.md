@@ -57,7 +57,7 @@ invoice-ai-extractor/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/PrabeshThapa3522/Invoice-AI-Extractor.git
 cd invoice-ai-extractor
 ```
 
