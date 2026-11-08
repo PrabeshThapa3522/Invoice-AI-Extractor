@@ -121,7 +121,6 @@ Validation results are displayed to the user so extracted information can be rev
 
 ## Future Improvements
 
-- Support PDF invoices.
 - Add invoice history and database storage.
 - Improve extraction accuracy for different invoice formats.
 - Add batch invoice processing.
